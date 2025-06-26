@@ -190,7 +190,7 @@ local buttonsPagesData = {{
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7/gistfile1.txt"},
     {Text = "anti spy chat", ScriptLink = "https://pastebin.com/raw/u0eJBiH9"},
     {Text = "chat spy", ScriptLink = "https://pastebin.com/raw/ECZP85Ud"},
-    {Text = "Script 9", ScriptLink = "https://pastebin.com/raw/example9"},
+    {Text = "anti lag", ScriptLink = "https://pastebin.com/raw/u5KgwBeD"},
     {Text = "Damage kill ", ScriptLink = ""},
     {Text = "spt auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = "loopbring", ScriptLink = "https://pastebin.com/raw/QBqps63Y"},
