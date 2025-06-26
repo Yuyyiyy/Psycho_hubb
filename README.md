@@ -184,7 +184,7 @@ Instance.new("UICorner", pageBtn).CornerRadius = UDim.new(0, 6)
 local buttonsPagesData = {{
     {Text = "Instant Spawn", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6c6a1996b7efda399ee6c667a0e96510/raw/dce1e15f00e12059b72516403f01401d950913cf/gistfile1.txt"},
     {Text = "No cooldown 75%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/246d84003ec77b3348b785f4c4b40951/raw/2e03b6f231e8ddeba6c7e40afedd919907138ddf/gistfile1.txt"},
-    {Text = "No cooldown 100%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6ef6b257e0b73fb796474c0cd331cd55/raw/d929d2510011d020196334e66c7ad8149d4899bc/gistfile1.txt"},
+    {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/Qxnj4RG9"},
     {Text = "Aura", ScriptLink = "https://pastebin.com/raw/qZPVbxFc"},
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7/gistfile1.txt"},
     {Text = "anti spy chat", ScriptLink = "https://pastebin.com/raw/u0eJBiH9"},
