@@ -192,7 +192,7 @@ local buttonsPagesData = {{
     {Text = "anti lag", ScriptLink = "https://pastebin.com/raw/u5KgwBeD"},
     {Text = "Damage kill ", ScriptLink = ""},
     {Text = "spt auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
-    {Text = "loopbring", ScriptLink = "https://pastebin.com/raw/QBqps63Y"},
+    {Text = "Loopbring", ScriptLink = "https://pastebin.com/raw/wzMiStPG"},
     {Text = "usetools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
     {Text = "Auto grab", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/eb3b21915928414653a2b8dd9a40980e/raw/782a51c0004924e47d86c0c008acd280e5af16c3/gistfile1.txt"},
     {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/raw/63T2aMVi"},
