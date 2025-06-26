@@ -185,7 +185,7 @@ local buttonsPagesData = {{
     {Text = "Instant Spawn", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6c6a1996b7efda399ee6c667a0e96510/raw/dce1e15f00e12059b72516403f01401d950913cf/gistfile1.txt"},
     {Text = "No cooldown 75%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/246d84003ec77b3348b785f4c4b40951/raw/2e03b6f231e8ddeba6c7e40afedd919907138ddf/gistfile1.txt"},
     {Text = "No cooldown 100%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6ef6b257e0b73fb796474c0cd331cd55/raw/d929d2510011d020196334e66c7ad8149d4899bc/gistfile1.txt"},
-    {Text = "Aura", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/69cd1fb21a09185e359a3eb706108aa9/raw/94e203ae28989cbe5c4c5fa2f9bf0f1263937738/gistfile1.txt"},
+    {Text = "Aura", ScriptLink = "https://pastebin.com/raw/qZPVbxFc"},
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7/gistfile1.txt"},
     {Text = "anti spy chat", ScriptLink = "https://pastebin.com/raw/u0eJBiH9"},
     {Text = "chat spy", ScriptLink = "https://pastebin.com/raw/ECZP85Ud"},
@@ -201,7 +201,7 @@ local buttonsPagesData = {{
     {Text = "No cooldown 20%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/435a09384699c8f3e910444d877f123c/raw/29721b83c34f0c51059a6839e978c1b0fc4a7570/gistfile1.txt"},
     {Text = "No cooldown 30%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/602ad74771fa6ed8b0118b8b2303c0cb/raw/a90c5000987fe694ae8fd250df0e981032245b4a/gistfile1.txt"},
     {Text = "No cooldown 50%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/b2fc36b1230d4bb9b06db2a419f50a8a/raw/e442c967add6123afd88d717b773361f7ad62af2/gistfile1.txt"},
-    {Text = "auto base", ScriptLink = "https://pastebin.com/raw/SpeedBoost123"},
+    {Text = "auto base", ScriptLink = "https://pastebin.com/raw/4u6C1YwW"},
     {Text = "Script 21", ScriptLink = "https://pastebin.com/raw/JumpPower456"},
     {Text = "Script 22", ScriptLink = "https://pastebin.com/raw/TeleportGUI789"}
 }}
