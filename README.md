@@ -201,7 +201,7 @@ local buttonsPagesData = {{
     {Text = "No cooldown 20%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/435a09384699c8f3e910444d877f123c/raw/29721b83c34f0c51059a6839e978c1b0fc4a7570/gistfile1.txt"},
     {Text = "No cooldown 30%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/602ad74771fa6ed8b0118b8b2303c0cb/raw/a90c5000987fe694ae8fd250df0e981032245b4a/gistfile1.txt"},
     {Text = "No cooldown 50%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/b2fc36b1230d4bb9b06db2a419f50a8a/raw/e442c967add6123afd88d717b773361f7ad62af2/gistfile1.txt"},
-    {Text = "auto base", ScriptLink = "https://pastebin.com/raw/4u6C1YwW"},
+    {Text = "auto base", ScriptLink = "https://pastefy.app/kS9BglBQ/raw"},
     {Text = "Script 21", ScriptLink = "https://pastebin.com/raw/JumpPower456"},
     {Text = "Script 22", ScriptLink = "https://pastebin.com/raw/TeleportGUI789"}
 }}
